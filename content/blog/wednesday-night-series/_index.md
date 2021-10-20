@@ -1,7 +1,7 @@
 ---
-author: Alison Hill
+author: Montaque Reynolds 
 cascade:
-  author: Alison Hill
+  author: Montaque Reynolds 
   categories:
   - Theme Features
   - R
@@ -24,18 +24,14 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: false
 sidebar:
-  author: Alison Hill
+  author: Montaque Reynolds 
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
-
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
+    Wednesday night series
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Spoonful of Hugo
-title: A Spoonful of Hugo
+  title: Wednesday Nights 
+title: Wednesday Nights 
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
